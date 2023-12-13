@@ -71,4 +71,4 @@ on 3310549530: Unable to upload Instances for 975f3943-db11c768-a7a92e9d-b9f73d9
 [========================================] 9.88GB/9.88GB [100%] in 43:05.3 (3.82MB/s)
 Creating save...
 ```
-As you can see, several errors occurred during data transfer; if you specify the `--ignore-errors` key, the script will skip them. You can run the script again later to try to trasfer them again
+As you can see, several errors occurred during data transfer; if you specify the `--ignore-errors` key, the script will skip them. You can run the script again later to try to trasfer them again.
