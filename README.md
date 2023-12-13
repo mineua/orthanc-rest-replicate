@@ -37,7 +37,7 @@ optional arguments:
   --threads THREADS    number of threads to transfer Instances (default: 2)
   --ignore-errors      do not stop if encountering any errors (default: False)
 ```
-Please note: this script uses the live-progress library, which must first be installed via pip.
+Please note: this script uses the alive-progress library, which must be installed via pip.
 
 ## Example script output
 ```
